@@ -11,7 +11,7 @@ Actualmente fazendo cursos:
   De Desenvolvimento web utilizando Flask-python, Bootstrap, SQLite ou MySQL, HTML, CSS, JS
 
 ## Sobre mim
-Estudante de TI cursando o último ano do ensino médio, tenho 19 anos, uma tremenda vontade de aprender coisas novas e melhorar o conhecimento no que já domino, acompanhe o progresso e faça parte da história
+Aprendendo a ser um engenheiro de software, e cursando o último ano do ensino médio, tenho 19 anos, uma tremenda vontade de aprender coisas novas e melhorar o conhecimento no que já domino, acompanhe o progresso e faça parte da história
 <!--
 **Edmazer/Edmazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
